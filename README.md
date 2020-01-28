@@ -2,5 +2,5 @@
 
 ## Week 2
 
-- [TUESDAY]("./WEEK_2/MONDAY.md)
+- [Monday]("./WEEK_2/MONDAY.md)
 - [TUESDAY]("./WEEK_2/TUESDAY.md)
