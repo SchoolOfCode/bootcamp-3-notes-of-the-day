@@ -4,6 +4,7 @@
 - applying functions to arrays with map/filter/forEach
 - async JavaScript - the call stack, the event loop, the callback queue
 - setTimeout/setInterval
+- disney ideation (dreamer/realist/spoiler)
 - JSON
 - What is an api
 - fetch
